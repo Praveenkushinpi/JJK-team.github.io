@@ -83,14 +83,14 @@ transform: translateY(0) !important;
 }
 .card[for="c1"]
  {
-background-image: url('gojo.jpg');
+background-image: url('Gojo.jpg');
 }
 .card[for="c2"] {
-background-image: url('yuji.jpg');
+background-image: url('Yuji.jpg');
 }
 .card[for="c3"] {
-background-image: url('nobara.jpg');
+background-image: url('Nobara\ .jpg');
 }
 .card[for="c4"] {
-background-image: url('Fushiguro.jpg');
+background-image: url('Fushiguro\ .jpg');
 }
