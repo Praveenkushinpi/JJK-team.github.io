@@ -23,7 +23,8 @@
                       background-size: auto 100%;
                         background-position: center;
                           background-repeat: no-repeat;
-                            height: 80vh;
+                            background-image:url('imgB.jpg');
+                          height: 80vh;
                               border-radius: 50px;
                                 color:#190f40;
                                   cursor: pointer;
